@@ -1,6 +1,5 @@
 ## Getting and Cleaning Data Project
 
-Heather Wade
 
 ### Description
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
@@ -48,3 +47,6 @@ Use gsub function for pattern replacement to clean up the data labels.
 
 ## Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
 Per the project instructions, we need to produce only a data set with the average of each veriable for each activity and subject
+
+
+Suwash Chandra Acharya
