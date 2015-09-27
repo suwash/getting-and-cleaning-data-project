@@ -1,7 +1,5 @@
 ## Getting and Cleaning Data Project
 
-Heather Wade
-
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 
 ### Overview
@@ -27,3 +25,6 @@ You should create one R script called run_analysis.R that does the following.
 
 ### Additional Information
 You can find additional information about the variables, data and transformations in the CodeBook.MD file.
+
+
+Suwash Chandra Acharya
